@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidSQLiteDatabaseDemo.iml" filepath="$PROJECT_DIR$/AndroidSQLiteDatabaseDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidlist.iml" filepath="$PROJECT_DIR$/androidlist.iml" group="androidlist" />
+      <module fileurl="file://$PROJECT_DIR$/app/androidlist-app.iml" filepath="$PROJECT_DIR$/app/androidlist-app.iml" group="androidlist/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
